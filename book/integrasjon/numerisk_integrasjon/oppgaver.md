@@ -1,1 +1,0 @@
-# Oppgaver: Numerisk integrasjon

@@ -1,9 +1,8 @@
-title: Matematikk R2
+title: Digitale verktøy
 author: René Ask, Edvard Munch Videregående Skole
 copyright: "2026"
-logo: _logo/r2.webp
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", README.md, LICENSE.md, LICENSE_CONTENT.md, HOWTOWRITE.md]
-description: "Oppgaver til matematikk R2 for læreplanen LK20."
+description: "Digitale verktøy"
 
 options:
   numbered: true
@@ -26,7 +25,7 @@ parse:
 
 
 repository:
-  url: https://github.com/reneaas/r2/
+  url: https://github.com/reneaas/digi/
   path_to_book: book/
   branch: main/
 
@@ -67,7 +66,7 @@ sphinx:
   config:
     language: norwegian
     html_favicon: favicon.ico
-    html_baseurl: "https://www.munchboka.no/r2/"
+    html_baseurl: "https://www.munchboka.no/digi/"
     sitemap_url_scheme: "{link}"
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3.2/es5/tex-mml-chtml.js
     mathjax3_config:
